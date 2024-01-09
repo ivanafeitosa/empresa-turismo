@@ -1,4 +1,4 @@
-#Atividade - Desenvolvimento de Website
+# Atividade - Desenvolvimento de Website
 
 Este repositório contém um website responsivo criado pelo grupo de alunos da turma FullStack Live da Digital College. A atividade possuía como requisitos a implementação de:
 

@@ -7,4 +7,10 @@ Este repositório contém um website responsivo criado pelo grupo de alunos da t
 * Utilização do framework Bootstrap
 * Inclusão de favicon ou ícone do browser
 
+## Equipe 
+
+* Erick Francisco
+* Ivana Feitosa
+* Luiz 
+
 

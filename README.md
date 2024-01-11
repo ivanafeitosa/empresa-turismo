@@ -11,6 +11,6 @@ Este repositório contém um website responsivo criado pelo grupo de alunos da t
 
 * Erick Francisco
 * Ivana Feitosa
-* Luiz 
+* Luiz Claudenio
 
 
